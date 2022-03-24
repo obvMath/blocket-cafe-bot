@@ -1,7 +1,7 @@
 # [Blooket](https://www.blooket.com) Cafe Bot
 
 
-## This is probably the simplest thing I have ever made. All it does is farm coins on Blooket.
+## This is probably the simplest thing I have ever made. All it does is farm coins on Blooket. (And it's 5 lines of code)
 
 **How it works**: it uses [Pyautogui](https://pypi.org/project/PyAutoGUI) - a [Python](https://www.python.org) package that can controll your mouse and keyboard - to spam left click and space. Once the blooket is over, I force quit the script via Task Manager.
 
